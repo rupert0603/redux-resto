@@ -24,13 +24,18 @@ A simulation of an e-commerce platform all packed into a single page website. Us
    
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-cd redux-resto
-npm install
-npm start
-```
+1. Go into the directory created
+   ```
+   cd redux-resto
+   ```
+2. Install dependencies
+   ```
+   npm install
+   ```
+4. Run the React application
+   ```
+   npm start
+   ```
 
 ## Author
 
